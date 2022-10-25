@@ -1,3 +1,4 @@
+tu powinna być wczorajsza data
 Michał Kasprzak 
 144544
 i7.1
