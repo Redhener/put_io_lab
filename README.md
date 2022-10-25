@@ -1,4 +1,5 @@
-tu powinna być wczorajsza data
+
+24.10.2022
 Michał Kasprzak 
 144544
 i7.1
